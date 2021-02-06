@@ -17,7 +17,7 @@
     <message>
         <location filename="../app/AboutDialog.ui" line="33"/>
         <source>Scan Tailor is an interactive post-processing tool for scanned pages. It performs operations such as page splitting, skew correction, adding/removing margins, and others. You give it raw scans, and you get pages ready to be printed or assembled into a PDF or DJVU file.  Scanning and optical character recognition is out of scope of this project.</source>
-        <translation>Scan Tailor est un outil interactif de post-traitement pour les pages numérisées. Il permet d&apos;effectuer des d&apos;opérations telles que la séparation des pages, le redressement automatique, l&apos;ajout ou le retrait de marges, et plus encore. À partir de numérisations brutes, il est possible d&apos;obtenir des pages prêtes à être imprimées ou assemblées en un fichier PDF ou DJVU. La numérisation en tant que tel ainsi que la reconnaissance de caractères (OCR) ne sont pas visés par ce project.</translation>
+        <translation>Scan Tailor est un outil interactif de post-traitement pour les pages numérisées. Il peut séparer les pages, les redresser, ajouter ou retirer une marge et plus encore. Partant de numérisations brutes on obtient des pages prêtes à imprimer ou rassemblées en fichier PDF ou DJVU. La numérisation et la reconnaissance de caractères (OCR) se font avec d'autres logiciels.</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="110"/>
@@ -37,12 +37,12 @@
     <message>
         <location filename="../app/AboutDialog.ui" line="183"/>
         <source>U235 - Picture auto-detection algorithm.</source>
-        <translation>U235 - Algorithme de détection automatique des images.</translation>
+        <translation>U235 - Algorithme pour auto-détecter les images.</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="190"/>
         <source>Robert B. - First generation dewarping algorithm.</source>
-        <translation>Robert B. - Première génération de l&apos;algorithme de dégauchissement.</translation>
+        <translation>Robert B. - Premier algorithme de dégauchissement.</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="197"/>
@@ -52,17 +52,17 @@
     <message>
         <location filename="../app/AboutDialog.ui" line="211"/>
         <source>Vadim Kuznetsov - ver. Plus</source>
-        <translation>Vadim Kuznetsov - ver. Plus</translation>
+        <translation>Vadim Kuznetsov - version « Plus »</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="218"/>
         <source>monday2000 - ver. Featured</source>
-        <translation>monday2000 - ver. Featured</translation>
+        <translation>monday2000 - version « Featured »</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="225"/>
         <source>Alexander Trufanov - ver. Universal</source>
-        <translation></translation>
+        <translation>Alexander Trufanov - version « Universal »</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="252"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="../app/AboutDialog.ui" line="151"/>
         <source>Lead Developer of Advanced version</source>
-        <translation>Développeur principale de la version Advanced</translation>
+        <translation>Développeur principale de la version « Advanced »</translation>
     </message>
     <message>
         <location filename="../app/AboutDialog.ui" line="158"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../app/AboutDialog.ui" line="204"/>
         <source>Petr Kovář - ver. Enhanced</source>
-        <translation>Petr Kovář - ver. Enhanced</translation>
+        <translation>Petr Kovář - version « Enhanced »</translation>
     </message>
 </context>
 <context>
@@ -121,7 +121,7 @@
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="54"/>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="61"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="81"/>
         <source>Units:</source>
-        <translation>Unités:</translation>
+        <translation>Unités :</translation>
     </message>
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="122"/>
@@ -158,7 +158,7 @@
         <location filename="../app/DefaultParamsDialog.ui" line="1777"/>
         <location filename="../app/DefaultParamsDialog.ui" line="1800"/>
         <source>...</source>
-        <translation></translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="331"/>
@@ -185,7 +185,7 @@
         <location filename="../app/DefaultParamsDialog.ui" line="616"/>
         <location filename="../app/DefaultParamsDialog.ui" line="685"/>
         <source>Deskew</source>
-        <translation>Redressement</translation>
+        <translation>Redresser</translation>
     </message>
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="696"/>
@@ -285,7 +285,7 @@
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="1452"/>
         <source>Alignment</source>
-        <translation>Alignement</translation>
+        <translation>Aligner</translation>
     </message>
     <message>
         <location filename="../app/DefaultParamsDialog.ui" line="1536"/>
